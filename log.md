@@ -1,30 +1,31 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: November 6, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+For the 100 days of code challenge I began this github account (done on the 5th Nov,21) as well as signing in to www.freecodecamp.org to begin going through the curriculum. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Until I've started on some projects it'll be progress tweets here. I'm keeping a thread on twitter for each days progress. Will put the first post of the threads below for each day.
 
-**Link to work:** [Calculator App](http://www.example.com)
+https://twitter.com/connectcoding/status/1457164345113153541?s=20
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+I had begun also working through Jason Cannon's book on Python Programming and doing some exercises for it. It's not part of the 100daysofcode challenge but can only do me good. This'll be my progress log for it all.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Day 1 was summarized thusly; 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+"CSS (and HTML/HTML5) section complete. That's two hours on Day 1 of #100DaysOfCode."
+"Lrning css color codes while color blind. IS THIS THING ON?" (red/green colour defect vision is what I'm told i'm dealing with)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 2: November 7, 2021
 
+Finished out the Applied Visual Design section of the Responsive Web Design Certification today. More colour work. I found an internal voice screaming DON'TCAREDON'TCAREDON'TCARE when reading of the 'importance' of color. I've been working in networking the last 18 years so web design, while will be good to know, isn't necessarily my end goal, design isn't a passion for me so much. Not saying no to anything though.
 
-### Day 1: June 27, Monday
+https://twitter.com/connectcoding/status/1457479812365258754?s=20
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+This afternoon went through the intro to github to get a better understanding of how not to break things here, and thus here is this log.md update. This'll be handy going forward as my notepage.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+I reference work interruptions, which flies in the face of the 100days rule of not doing the challenge while at work, but I have little choice and it's not work as such as i'm not an employee where I am.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+Dinner then getting stuck into the next section on Applied Acessibility (a title done on the fcc [until further notice if i use FCC I mean freecodecamp.org] website in such a way that couldn't be copied easily for copy/paste.)
+
+### Day 3: November 8, 2021
+
