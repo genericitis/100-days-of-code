@@ -43,5 +43,7 @@ That's done. Bed time. Night :)
 
 Here's todays twitter thread; https://twitter.com/connectcoding/status/1458006815015194636?s=20
 
+2m later update (from the tweet thread); I should have the Responsive Web Design learnings complete by tomorrow, just saw after the CSS Flexbox is  CSS Grid (22 sections) then it's onto some Responsive Web Design Projects. That's building five separate pages. Then that's the first FCC cert done. Not going to say I'll have that last section in a day, will wait till I see what's involved before I go making predictions.
+
 
 
