@@ -51,3 +51,7 @@ Here's todays twitter thread; https://twitter.com/connectcoding/status/145800681
 Now to knock over the CSS flex and grid sections before bed. Won't be much commenting, just bashing this out before sleep and a million and one other things I have to get done.
 
 Ok. That's done. Night. Soundtrack -  Underworld - The Biggest Weekend Belfast 26.05.2018 Full Show HD https://www.youtube.com/watch?v=QPzqHToMf7U
+
+For a change the twitter feed is mostly copied from this log tonight. https://twitter.com/connectcoding/status/1458390772357627904
+
+I'll start on the Build A Tribute Page bit tomorrow.
