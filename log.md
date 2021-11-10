@@ -55,3 +55,10 @@ Ok. That's done. Night. Soundtrack -  Underworld - The Biggest Weekend Belfast 2
 For a change the twitter feed is mostly copied from this log tonight. https://twitter.com/connectcoding/status/1458390772357627904
 
 I'll start on the Build A Tribute Page bit tomorrow.
+
+### Day 5: November 11, 2021 - bills are in
+
+Starting on the tribute page. I've joined into codepen.io to do this next part. I usually refrain from logging into sites via other services (e.g. login via gmail/fb/etc.) but as this is all interconnecting i'm choosing login via github when given the option to try and keep all this coding stuff together.
+
+Only listened to a bit of that Underworld link last night. Full listen for backing this morning.
+
