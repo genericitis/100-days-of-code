@@ -62,3 +62,6 @@ Starting on the tribute page. I've joined into codepen.io to do this next part. 
 
 Only listened to a bit of that Underworld link last night. Full listen for backing this morning.
 
+If electronic music is your thing, Orbital's sampling of Dr Brian Cox is in here, yet to hear if their sampling of Greta Thunberg is in this one but check out their bluedot 2020 youtube set for that) https://www.youtube.com/watch?v=VJQGvYB7_2Y
+
+Finished the site, about to test it. 0804hrs.
