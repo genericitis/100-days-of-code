@@ -58,10 +58,20 @@ I'll start on the Build A Tribute Page bit tomorrow.
 
 ### Day 5: November 11, 2021 - bills are in
 
+Twitter feed for today is here; https://twitter.com/connectcoding/status/1458517712070590464
+
 Starting on the tribute page. I've joined into codepen.io to do this next part. I usually refrain from logging into sites via other services (e.g. login via gmail/fb/etc.) but as this is all interconnecting i'm choosing login via github when given the option to try and keep all this coding stuff together.
 
 Only listened to a bit of that Underworld link last night. Full listen for backing this morning.
 
-If electronic music is your thing, Orbital's sampling of Dr Brian Cox is in here, yet to hear if their sampling of Greta Thunberg is in this one but check out their bluedot 2020 youtube set for that) https://www.youtube.com/watch?v=VJQGvYB7_2Y
+If electronic music is your thing, Orbital's sampling of Dr Brian Cox is in here, yet to hear if their sampling of Greta Thunberg (edit; yep, 20min in - I WANT YOU TO PANIC) is in this one but check out their bluedot 2020 youtube set for that) https://www.youtube.com/watch?v=VJQGvYB7_2Y
 
 Finished the site, about to test it. 0804hrs.
+
+Failed testing 5/10. Fix attempts so far;
+
+1. </id> tag at the very end wasn't 'quite' at the very end. Threw in the header/footers right at the end and got myself with the footer on that one.
+2. Separated the title at the top and added the merriam-webster section (and everything else but the footer) into a <body> section.
+3. Added <div> tags around my id=img-dev section. Now to go check quickly for typos too.
+
+
