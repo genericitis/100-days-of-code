@@ -74,4 +74,6 @@ Failed testing 5/10. Fix attempts so far;
 2. Separated the title at the top and added the merriam-webster section (and everything else but the footer) into a <body> section.
 3. Added <div> tags around my id=img-dev section. Now to go check quickly for typos too.
 
+Failed testing 5/10. Back soon. 0827hrs.
+
 
