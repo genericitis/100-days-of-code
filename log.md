@@ -46,4 +46,8 @@ Here's todays twitter thread; https://twitter.com/connectcoding/status/145800681
 2m later update (from the tweet thread); I should have the Responsive Web Design learnings complete by tomorrow, just saw after the CSS Flexbox is  CSS Grid (22 sections) then it's onto some Responsive Web Design Projects. That's building five separate pages. Then that's the first FCC cert done. Not going to say I'll have that last section in a day, will wait till I see what's involved before I go making predictions.
 
 
+### Day 4: November 10, 2021
 
+Now to knock over the CSS flex and grid sections before bed. Won't be much commenting, just bashing this out before sleep and a million and one other things I have to get done.
+
+Ok. That's done. Night. Soundtrack -  Underworld - The Biggest Weekend Belfast 26.05.2018 Full Show HD https://www.youtube.com/watch?v=QPzqHToMf7U
