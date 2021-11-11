@@ -82,3 +82,10 @@ Finished bashing my head against the wall on respsonsive image size at 1301hrs.
 
 https://codepen.io/genericitis/pen/qBXyrYd
 
+ 
+  Tried doing more later. Got interrupted. More tomorrow (written 'tomorrow')
+
+### Day 6: November 12, 2021 - holidays, not bills
+  
+  
+  Doing the survey page today. Was told about IDs and Classes last night. One being for one, one for many. 
