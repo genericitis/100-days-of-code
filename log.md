@@ -89,3 +89,11 @@ https://codepen.io/genericitis/pen/qBXyrYd
   
   
   Doing the survey page today. Was told about IDs and Classes last night. One being for one, one for many. 
+
+### Day 6 V2: November 14, 2021 - back again
+
+ Life stopped work for a couple of days. Time to pick it back up again. 
+
+So far I've built the survey to a point of 10/17 passes through copy/pasting the example given in the exercises on freecodecamp.org.
+
+https://codepen.io/genericitis/pen/RwZBYjR
